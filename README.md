@@ -1,5 +1,5 @@
 # hello-world
 Places I visited
-~~Jamaica~~
-~~Aruba~~
-~~Mexico~~ 
+~~Jamaica,~~
+~~Aruba,~~
+~~Mexico,~~ 
