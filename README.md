@@ -1,2 +1,5 @@
 # hello-world
-Hey this is my world.
+Places I visited
+~~Jamaica,~~
+~~Aruba,~~
+~~Mexico,~~ 
